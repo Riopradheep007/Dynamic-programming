@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  6 11:28:19 2021
-
-@author: kpr
+@author: pradheep
 """
 
 
