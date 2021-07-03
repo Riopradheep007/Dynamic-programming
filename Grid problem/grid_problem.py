@@ -1,27 +1,22 @@
-"""
-   Dynamic programming is if the same process is repeated again and  again in a program store it in somewhere for the feature
-   purpose storing thing is called memmoization.
-"""
+
 
 """
 problem statement
-  1.In a grid your aremstanding in the top left corner you have to reach the bottom right corner.
+  1.In a grid your are standing in the top left corner you have to reach the bottom right corner.
     your can move only right  and bottom.
     
     start
     |----|-----|-----|
     |----|-----|-----|                
     |----|-----|-----|end
+    
 """
 
 """ without using memization    complixity is O(n^2)"""
 
 
 
-"""
-recursion is working in a tree like structure
 
-"""
 
 
 
